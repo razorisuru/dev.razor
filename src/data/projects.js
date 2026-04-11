@@ -44,7 +44,8 @@ export const allProjects = [
     tags: ["NextJS", "PrismaORM", "ReactJS", "PostgreSQL"],
     category: "web",
     link: "https://nextblog.razorisuru.com/",
-    source: "https://github.com/razorisuru/role-based-post-management-system-nextjs",
+    source:
+      "https://github.com/razorisuru/role-based-post-management-system-nextjs",
     image: "/nextBlog.png",
   },
   {
@@ -78,5 +79,25 @@ export const allProjects = [
     source: "https://github.com/razorisuru/gem-dev",
     image:
       "https://raw.githubusercontent.com/razorisuru/web/refs/heads/main/public/gem.png",
+  },
+  {
+    title: "Lakvin Lk",
+    description:
+      "Web Hosting & Maintenance: Providing reliable web hosting and maintenance services for Lakvin Lk, ensuring optimal performance, security, and uptime for their online presence. Services include server management, regular updates, security monitoring, and technical support to keep their website running smoothly.",
+    tags: ["NextJS", "ReactJS", "ReactDOM", "PrizmaORM"],
+    category: "hosting",
+    link: "https://lakvin.lk/",
+    source: "https://github.com/razorisuru/",
+    image: "/lakvin.png",
+  },
+  {
+    title: "Nexus Lovers & Graphics - POS System",
+    description:
+      "Web Hosting & Maintenance: Providing reliable web hosting and maintenance services for Nexus Lovers & Graphics, ensuring optimal performance, security, and uptime for their online presence. Services include server management, regular updates, security monitoring, and technical support to keep their website running smoothly.",
+    tags: ["Wordpress", "MYSql"],
+    category: "hosting",
+    link: "#",
+    source: "https://github.com/razorisuru/",
+    image: "/nexus.png",
   },
 ];
