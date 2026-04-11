@@ -104,7 +104,7 @@ const Navbar = () => {
             isMobileMenuOpen ? 'max-h-80 mt-4' : 'max-h-0'
           }`}
         >
-          <div className="glass-light rounded-2xl p-4 space-y-2">
+          <div className="glass-dark rounded-2xl p-4 space-y-2">
             {navLinks.map((link) => (
               <a
                 key={link.name}
